@@ -20,4 +20,4 @@ built using n8n, MCP, and modern AI engineering tools.
 
 ## Connect
 LinkedIn: www.linkedin.com/in/abid-ali-622a93333
-GitHub: github.com/Abid584
+GitHub: https://github.com/Abid584
