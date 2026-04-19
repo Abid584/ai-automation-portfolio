@@ -13,7 +13,7 @@ delegating the sending task to a dedicated sub-agent.
 ## How It Works
 1. User sends a message via n8n chat interface
 2. Parent Agent decides the intent (draft or send)
-3. For drafts: Gmail Draft tool is called directly
+3. For drafts: Gmail Draft tool is called directly 
 4. For sending: Email Sending Tool triggers the Sub Agent workflow
 5. Sub Agent uses its own AI and Gmail tool to send the email
 
