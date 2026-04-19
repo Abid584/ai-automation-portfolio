@@ -16,7 +16,7 @@ as the vector database.
 3. Pinecone is queried for relevant document chunks
 4. Response is returned back to the user
 
-## Stack
+## Stack 
 - n8n
 - OpenAI GPT-4.1 Mini
 - Pinecone Vector DB (namespace: roadmap)
