@@ -5,7 +5,7 @@ built using n8n, MCP, and modern AI engineering tools.
 
 ## What's Inside
 
-| Folder | Description | Status |
+| Folder | Description | Status | 
 |---|---|---|
 | n8n-workflows/ | n8n automation workflows | Active |
 | mcp/ | MCP server integrations | Coming Soon |
