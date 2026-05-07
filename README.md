@@ -9,7 +9,7 @@ built using n8n, MCP, and modern AI engineering tools.
 |---|---|---|
 | n8n-workflows/ | n8n automation workflows | Active |
 | mcp/ | MCP server integrations | Coming Soon |
-| ai-engineering/ | AI engineering projects | Coming Soon |
+| ai-engineering/ | AI engineering projects | Coming Soon | 
 
 ## Tools & Stack Used Till Now
 - n8n
