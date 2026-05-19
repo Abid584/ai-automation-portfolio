@@ -8,7 +8,7 @@ built using n8n, MCP, and modern AI engineering tools.
 | Folder | Description | Status | 
 |---|---|---|
 | n8n-workflows/ | n8n automation workflows | Active |
-| mcp/ | MCP server integrations | Coming Soon |
+| mcp/ | MCP server integrations | Coming Soon | 
 | ai-engineering/ | AI engineering projects | Coming Soon | 
 
 ## Tools & Stack Used Till Now
